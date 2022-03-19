@@ -1,8 +1,8 @@
 ### Jay Lee
 
-Studied machine learning and game AI 🎮
+Studied machine learning and game AI. 🎮
 
-Currentrly working at KEB Hana bank
+I'm working for KEB Hana bank as an AI researcher/engineer.
 
 <!--
 **Clarit7/Clarit7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
