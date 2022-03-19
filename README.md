@@ -1,6 +1,7 @@
 ### Jay Lee
 
 Studied machine learning and game AI 🎮
+
 Currentrly working at KEB Hana bank
 
 <!--
